@@ -1,4 +1,4 @@
-# Wedjat: 荷鲁斯之眼 - Kubernetes 资源监控项目
+# Wedjat: the eye of Horus - Kubernetes 资源监控项目
 
 Wedjat is a Kubernetes-level resource monitoring project written in the Go language. The project is inspired by the Eye of Horus in Egyptian mythology, which symbolizes surveillance and protection.
 
